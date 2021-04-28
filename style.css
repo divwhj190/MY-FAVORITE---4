@@ -81,3 +81,6 @@ html{
 #img1 {
     margin-right: 180px;
 }
+img:hover {
+    transform: scale(0.9);
+}
